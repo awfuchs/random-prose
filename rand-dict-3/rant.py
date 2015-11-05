@@ -9,14 +9,15 @@ import random
 numSentences=50
 
 # Just move the one you want to the last position...
-source='texts/technical.txt'
-source='texts/googley.txt'
-source='texts/christie.txt'
 source='texts/andersen.txt'
-source='texts/sciam.txt'
+source='texts/christie.txt'
+source='texts/donneepoeti.txt'
 source='texts/federalist.txt'
+source='texts/googley.txt'
 source='texts/kjbible.txt'
 source='texts/kjgenesis.txt'
+source='texts/sciam.txt'
+source='texts/technical.txt'
 
 # You'll probably want to tune these weightings depending on the text selected
 sentRunonWeighting=5
