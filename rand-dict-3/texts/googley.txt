@@ -1,0 +1,247 @@
+Google Cloud Dataproc is a managed Hadoop MapReduce, Spark, Pig, and Hive service designed to easily and cost effectively process big datasets. You can quickly create managed clusters of any size and turn them off when you are finished, so you only pay for what you need. Cloud Dataproc is integrated across several Google Cloud Platform products, so you have access to a simple, powerful, and complete data processing platform.
+
+Cloud Dataproc clusters can be created quickly, resized at any time, and can use from three to hundreds of nodes and many machine types, so you don't have to worry about your data pipelines outgrowing your clusters. With each cluster action taking less than 90 seconds, you have more time to focus on insights and not on infrastructure.
+
+Adopting Google Cloud Platform pricing principles, Cloud Dataproc has a low cost and easy to understand price structure, based on actual use, measured per minute. Moreover, Cloud Dataproc clusters can include preemptible instances with lower compute prices, giving you powerful clusters at a low total cost.
+
+The Spark and Hadoop ecosystem provides tools, libraries, and documentation that you can leverage with Cloud Dataproc. By offering frequently updated and native versions of Spark, Hadoop, Pig, and Hive, you can get started without needing to learn new tools or APIs, and you can move existing projects or ETL pipelines without redevelopment.
+
+
+ogle Cloud Platform empowers artists and media professionals across key workloads critical to their business: from content ingestion into the cloud, graphics rendering, media archival & disaster recovery, to video transcoding and distribution for livestreaming. Google Cloud Platform lets you focus on creativity, backed by the same infrastructure relied on by Google's own services.
+
+Cloud Platform provides services that let you focus your development time on your application, not on your infrastructure. Build your app for Android, iOS, and the mobile web on services that will reliably scale as your app grows.
+
+Whether you need to build a multi-tiered web application from scratch or host a static website, Cloud Platform provides services and infrastructure that enable you to develop and deploy robust, scalable, globally-available applications and websites. Choosing Cloud Platform means you get to focus on your application and your users, while Google takes care of the infrastructure for you, and you only pay for what you use.
+
+Scale, personalization, and security are some of the biggest challenges facing the retail industry. Cloud Platform gives you the tools to deliver your applications at global scale, run advanced analytics to better understand your customers, and protect your shopper's most sensitive data.
+
+Development and test is where any application starts. In today's increasingly competitive world, the agility to be able to try things out quickly and move on without incurring upfront costs or facing delays while procuring hardware and integrating into your on premises environment is key to being successful. Numerable disposable, and recreatable environments that are accessible around the globe are a must have for application lifecycle management. Configuration management tools that suit your environment, containers, and developer and continuous integration tools are just some of the things the modern developer expects to be at their disposal. Google Cloud Platform provides a cost effective platform that addresses these requirements and more for any development and test configuration.
+
+Today's applications are generating more and more data all the time. And this data is being generated faster. Use the products and services on Google Cloud Platform to help you collect, ingest, and analyze your data. With Cloud Platform, you can take advantage of Google's scale and speed to quickly and cost effectively use your data to benefit your application.
+
+Google Cloud Platform provides services that allow financial organizations to focus their efforts on their businesses, on the opportunities and necessities of an area undergoing rapid growth and transformation. Opportunities to do things better, and differently, are everywhere. The necessity of doing those things with appropriately managed risk, according to regulatory requirements has never been greater.
+
+Delight your fans with great games by using Cloud Platform to build a massively scalable game without having to work on IT issues or make upfront financial investments.
+
+There is the potential for 50 billion connected devices by 2020. Google Cloud Platform gives you the tools to scale connections, gather and make sense of data, and provide the reliable customer experiences that hardware devices require.
+
+Google Genomics helps the life science community organize the world's genomic information and make it accessible and useful. Through our extensions to Google Cloud Platform, you can apply the same technologies that power Google Search and Maps to securely store, process, explore and share large, complex biological datasets.
+
+The Google security model is an end-to-end process, built on over 15 years of experience keeping customers safe on Google applications like Gmail and Google Apps. With Google Cloud Platform your applications and data take advantage of the same security model.
+
+
+
+
+
+
+Compute Engine's Linux VMs are consistently performant, scalable, highly secure and reliable. Supported distros include Debian and CentOS. You can choose from micro-VMs to large instances.
+
+Create large compute clusters that benefit from strong and consistent cross-machine bandwidth. Connect to machines in other data centers and to other Google services using Google's private global fiber network.
+
+Google bills in minute-level increments with a 10-minute minimum charge, so you don't pay for unused computing time. With sustained use discounts, we automatically give you discounted prices for long-running workloads with no sign-up or up-front commitment.
+
+Global load-balancing technology helps you distribute incoming requests across pools of instances across multiple regions, so you can achieve maximum performance, throughput and availability at low cost.
+
+Quickly deploy large clusters of virtual machines with intuitive tools including a RESTful API, command-line interface and web-based Console. You can also use tools such as RightScale and Scalr to automatically manage your deployment.
+
+All data written to persistent disk in Compute Engine is encrypted on the fly and then transmitted and stored in encrypted form. Google Compute Engine has completed ISO 27001 certifications, demonstrating our commitment to information security.
+
+Cost effectively run large compute and batch jobs using Preemptible VMs. Fixed pricing and no contracts or reservations make it easy: simply check a box when you create the VM.
+
+
+
+
+
+
+
+Google App Engine is a platform for building scalable web applications and mobile backends. App Engine provides you with built-in services and APIs such as NoSQL datastores, memcache, and a user authentication API, common to most applications.
+
+App Engine will scale your application automatically in response to the amount of traffic it receives so you only pay for the resources you use. Just upload your code and Google will manage your app's availability. There are no servers for you to provision or maintain.
+
+With built-in services such as load balancing, health checks, and application logging, you can deploy web and mobile applications much faster.
+
+App Engine offers built-in auto-scaling so that your apps can instantly scale automatically based on need, from zero to millions of users.
+
+Security Scanner automatically scans and detects common web application vulnerabilities. It enables early threat identification and delivers very low false positive rates. You can easily setup, run, schedule, and manage security scans from the Google Developer Console.
+
+App Engine works with popular development tools such as Eclipse, IntelliJ, Maven, Git, Jenkins, and PyCharm. You can build your apps with the tools you love without changing your workflow.
+
+
+
+
+Cloud Bigtable is Google's NoSQL Big Data database service. It's the same database that powers many core Google services, including Search, Analytics, Maps, and Gmail.
+
+Bigtable is designed to handle massive workloads at consistent low latency and high throughput, so it's a great choice for both operational and analytical applications, including IoT, user analytics, and financial data analysis.
+
+Bigtable offers low latency and high throughput at any scale or application type. You can use Bigtable as the storage engine for large-scale, low-latency applications as well as throughput-intensive data processing and analytics.
+
+Bigtable provisions and scales to hundreds of petabytes automatically, and can smoothly handle millions of operations per second. Changes to the deployment configuration are immediate, so there is no downtime during reconfiguration.
+
+Bigtable integrates easily with popular Big Data tools like Hadoop and Spark, as well as Google Cloud Platform products like Cloud Dataflow, BigQuery, and Dataproc. Plus, Bigtable supports the open-source, industry-standard HBase API, which makes it easy for development teams to get started.
+
+
+
+
+Querying massive datasets can be time consuming and expensive without the right hardware and infrastructure. Google BigQuery solves this problem by enabling super-fast, SQL queries against append-only tables, using the processing power of Google's infrastructure. Simply move your data into BigQuery and let us handle the hard work. You can control access to both the project and your data based on your business needs, such as giving others the ability to view or query your data.
+
+You can access BigQuery by using a web UI or a command-line tool, or by making calls to the BigQuery REST API using a variety of client libraries such as Java, .NET or Python. There are also a variety of third-party tools that you can use to interact with BigQuery, such as visualizing the data or loading the data.
+
+Projects are top-level containers in Google Cloud Platform. They store information about billing and authorized users, and they contain BigQuery data. Each project has a friendly name and a unique ID.
+
+Tables contain your data in BigQuery. Each table has a schema that describes field names, types, and other information. In addition to tables containing data stored in managed storage, BigQuery also supports both views, which are virtual tables defined by a SQL query, and external tables, which are tables defined over data stored in, for example, Cloud Storage.
+
+Datasets allow you to organize and control access to your tables. Because tables are contained in datasets, you'll need to create at least one dataset before loading data into BigQuery.
+
+Jobs are actions you construct and BigQuery executes on your behalf to load data, export data, query data, or copy data. Since jobs can potentially take a long time to complete, they execute asynchronously and can be polled for their status. BigQuery saves a history of all jobs associated with a project, accessible via the Google Developers Console.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+General Availability features are publicly available and are covered by App Engine's SLA and deprecation policy. The implementation of a GA feature is stable; any changes made to it will be backwards-compatible. Unless otherwise noted, the App Engine features described on this page are all in GA.
+Beta features are publicly available. They may or may not become GA features in a future App Engine release, and their implementation may change in backward-incompatible ways.
+Alpha features may or may not become Beta or GA features in a future App Engine release, and their implementation may change in backward-incompatible ways. Some Alpha features are publicly available, while others require that you request access in order to use them.
+Some features described here are provided by third-party vendors, others are open source projects. These will be marked third-party or Open Source.
+
+
+App Engine runs your Java web application using a Java 7 JVM in a safe sandboxed environment. App Engine invokes your app's servlet classes to handle requests and prepare responses in this environment.
+
+App Engine uses the Java Servlet standard for web applications. You provide your app's servlet classes, JavaServer Pages, static files and data files, along with the deployment descriptor and other configuration files, in a standard WAR directory structure. App Engine serves requests by invoking servlets according to the deployment descriptor.
+
+The secured sandbox environment isolates your application for service and security. It ensures that apps can only perform actions that do not interfere with the performance and scalability of other apps. For instance, an app cannot spawn threads in some ways, write data to the local file system or make arbitrary network connections. An app also cannot use JNI or other native code. The JVM can execute any Java bytecode that operates within the sandbox restrictions.
+
+The Google Plugin for Eclipse adds new project wizards and debug configurations to your Eclipse IDE for App Engine projects. App Engine for Java makes it especially easy to develop and deploy world-class web applications using Google Web Toolkit. The Eclipse plugin comes bundled with the App Engine and GWT SDKs. Third-party plugins are available for NetBeans and IntelliJ.
+
+App Engine executes your Python application code using a pre-loaded Python interpreter in a safe sandboxed environment. Your app receives web requests, performs work, and sends responses by interacting with this environment.
+
+A Python web app interacts with the App Engine web server using the WSGI protocol, so apps can use any WSGI-compatible web application framework. App Engine includes a simple web application framework, called webapp2, to make it easy to get started. For larger applications, mature third-party frameworks, such as Django, work well with App Engine.
+
+The Python interpreter can run any Python code, including Python modules you include with your application, as well as the Python standard library. The interpreter cannot load Python modules with C code; it is a "pure" Python environment.
+
+The secured sandbox environment isolates your application for service and security. It ensures that apps can only perform actions that do not interfere with the performance and scalability of other apps. For instance, an app cannot write data to the local file system or make arbitrary network connections. Instead, apps use scalable services provided by App Engine to store data and communicate over the Internet. The Python interpreter raises an exception when an app attempts to import a module from the standard library known to not work within the sandbox restrictions.
+
+The PHP runtime executes your application code in a sandboxed PHP 5.4 environment. Your app receives web requests, performs work, and sends responses by interacting with this environment. The runtime supports many of the standard PHP extensions. You cannot upload extensions written in C.
+
+App Engine runs its own web server, which can be configured using an app.yaml file that's uploaded with your code. This file specifies how incoming HTTP requests to your application are directed to PHP scripts.
+
+The sandbox isolates your application for reliability, scalability and security. For this reason, a small number of PHP functions are not available on App Engine, and others will raise an exception if used incorrectly. For instance, an app cannot write data to the local file system. Instead, apps can use scalable services provided by Google to store and process data and communicate over the Internet.
+
+The PHP runtime provides a built-in Google Cloud Storage stream wrapper that allows you to use many of the standard PHP filesystem functions to access Google Cloud Storage.
+
+App Engine runs Go version 1.4. The SDK provides an interface similar to the standard Go http package; writing Go App Engine apps is akin to writing stand-alone Go web servers.
+
+The SDK includes the Go compiler and standard library; it has no additional dependencies. Because the Go runtime executes in a sandboxed environment, some of the standard library functions will return errors and should not be used. For example, an os.ErrPermission will occur if an app tries to write to the local file system or make arbitrary network connections. You must use App Engine's scalable services to store data and communicate over the Internet.
+
+You never need to invoke the Go compiler yourself. Your app is automatically re-built on the server side whenever you upload new code, and if you are running the local development server the SDK automatically recompiles sources on-the-fly when you change them.
+
+The Go runtime environment for App Engine supports goroutines, but they are scheduled on a single thread. Goroutines can run concurrently but not in parallel. An application instance can handle multiple requests. For example, if one request is waiting for a datastore API call, the instance can process another request in the meantime.
+
+The Managed VM hosting environment lets you run App Engine applications on configurable Compute Engine Virtual Machines. This VM-based hosting environment offers more flexibility and provides more CPU and memory options. Applications that run on Managed VMs, are not subject to Java and Python runtime restrictions and they have access to all the Compute Engine machine types. You can also add third-party libraries and frameworks to your app.
+
+Use the migration tools found in the Application Settings tab of the Administration Console to migrate your application data from the deprecated Master/Slave Datastore to the High Replication Datastore. You must duplicate your application and then migrate the data. You may need to make some changes to your application to ensure an optimal migration.
+
+Google Cloud SQL is a MySQL database that lives in Google's cloud. It has all the capabilities and functionality of MySQL, with a few additional features and a few unsupported features as listed below. Google Cloud SQL is easy to use, doesn't require any software installation or maintenance and is ideal for small to medium-sized applications.
+
+The Blobstore API allows your application to serve data objects, called blobs, that are much larger than the size allowed for objects in the Datastore service. Blobs are useful for serving large files, such as video or image files, and for allowing users to upload large data files. Blobs are created by uploading a file through an HTTP request. Typically, your applications will do this by presenting a form with a file upload field to the user. When the form is submitted, the Blobstore creates a blob from the file's contents and returns an opaque reference to the blob, called a blob key, which you can later use to serve the blob. The application can serve the complete blob value in response to a user request, or it can read the value directly using a streaming file-like interface.
+
+Google Cloud Storage is useful for storing and serving large files. Additionally, Cloud Storage offers the use of access control lists, and the ability to resume upload operations if they're interrupted, and many other features. The Google Cloud Storage client library makes use of this resume capability automatically for your app, providing you with a robust way to stream data into Google Cloud Storage.
+
+The Google Cloud Storage client library lets your application read files from and write files to buckets in Google Cloud Storage. This library supports reading and writing large amounts of data to Google Cloud Storage, with internal error handling and retries, so you don't have to write your own code to do this. Moreover, it provides read buffering with prefetch so your app can be more efficient.
+
+The Search API provides a model for indexing documents that contain structured data like text and HTML strings, atoms, dates, geopoints, numbers. Documents and indexes are saved in a separate persistent store optimized for search operations. You can search an index, and organize and present search results. The API supports partial text matching on string fields. The Search API can index any number of documents, however, a single search can return no more than 10,000 matching documents. The App Engine Datastore may be more appropriate for applications that need to retrieve very large result sets.
+
+Shared memcache is the free default for App Engine applications. It provides cache capacity on a best-effort basis and is subject to the overall demand of all applications served by App Engine.
+Dedicated memcache provides a fixed cache capacity assigned exclusively to your application. It's billed by the GB-hour of cache size. Having control over cache size means your app can perform more predictably and with fewer accesses to more costly durable storage. 
+Whether shared or dedicated, memcache is not a durable storage. Keys may be evicted when the cache fills up, according to the cache's LRU policy. Changes in the cache configuration or datacenter maintenance events may also flush some or all of the cache.
+
+Dedicated memcache provides a fixed cache capacity assigned exclusively to your application. It's billed by the GB-hour of cache size. Having control over cache size means your app can perform more predictably and with fewer accesses to more costly durable storage.
+
+Application logs contain arbitrary messages with a timestamp and log level.
+Request logs contain entries for each request handled by your app, with information such as the app ID, HTTP version, and so forth. Each request log includes a list of application logs associated with that request.
+The Logs API provides access to your application's logs. You can also access the logs from the Admin Console.
+
+The Channel API creates a persistent connection between an application and its users, allowing the application to send real time messages without the use of polling.
+
+For mobile developers, Endpoints provides a simple way to develop a shared web backend and also provides critical infrastructures, such as authentication, eliminating a great deal of work that would otherwise be needed. Furthermore, because the API backend is an App Engine app, the mobile developer can use all of the services and features available in App Engine, such as Datastore, Google Cloud Storage, Mail, Url Fetch, Task Queues, and so forth. And finally, by using App Engine for the backend, developers are freed from system admin work, load balancing, scaling, and server maintenance.
+
+It is possible to create mobile clients for App Engine backends without Endpoints. However, using Endpoints makes this process easier because it frees you from having to write wrappers to handle communication with App Engine. The client libraries generated by Endpoints allow you to simply make direct API calls.
+
+App Engine applications can send email messages on behalf of the app's administrators, and on behalf of users with Google Accounts. Apps can receive email at various addresses. Apps send messages using the Mail service and receive messages in the form of HTTP requests initiated by App Engine and posted to the app.
+
+You can use SendGrid to power your emails on Google App Engine. Using SendGrid can improve your deliverability and provide transparency into what actually happens to those emails your app sends. You can see statistics on opens, clicks, unsubscribes, spam reports and more through either the SendGrid interface or its API.
+
+App Engine supports regular outbound sockets in all runtimes, without requiring you to import any special App Engine libraries or add any special App Engine code. However, there are certain limitations and behaviors you need to be aware of when using sockets. The details vary depending on the runtime. Read the runtime documentation for more information.
+
+Twilio is powering the future of business communications, enabling developers to embed voice, VoIP, and messaging into applications. They virtualize all infrastructure needed in a cloud-based, global environment, exposing it through the Twilio communications API platform. Applications are simple to build and scalable. Enjoy flexibility with pay-as-you go pricing, and benefit from cloud reliability.
+
+Twilio Voice enables your application to make and receive phone calls. Twilio SMS enables your application to send and receive text messages. Twilio Client allows you to make VoIP calls from any phone, tablet, or browser and supports WebRTC.
+
+App Engine applications can communicate with other applications or access other resources on the web by fetching URLs. An app can use the URL Fetch service to issue HTTP and HTTPS requests and receive responses. The URL Fetch service uses Google's network infrastructure for efficiency and scaling purposes.
+
+An App Engine application can send and receive chat messages to and from any XMPP-compatible chat messaging service, such as Google Talk. An app can send and receive chat messages, send chat invites, request a user's chat presence and status, and provide a chat status. Incoming XMPP messages are handled by request handlers, similar to web requests.
+
+Some possible uses of chat messages include automated chat participants, chat notifications, and chat interfaces to services. A rich client with a connection to an XMPP server can use XMPP to interact with an App Engine application in real time, including receiving messages initiated by the app. 
+
+Currently, an app cannot participate in group chats. An app can only receive messages of types "chat" and "normal". An app can send messages of any type defined in RFC 3921.
+
+With the Task Queue API, applications can perform work outside of a user request, initiated by a user request. If an app needs to execute some background work, it can use the Task Queue API to organize that work into small, discrete units, called tasks. The app adds tasks to task queues to be executed later.
+
+Push queues process tasks based on the processing rate configured in the queue definition. App Engine automatically scales processing capacity to match your queue configuration and processing volume, and also deletes tasks after processing. Push queues are the default.
+Pull queues allow a task consumer, either your application or code external to your application, to lease tasks at a specific time for processing within a specific timeframe. Pull queues give you more control over when tasks are processed, and also allow you to integrate your application with non-App-Engine code using the Task Queue REST API. When using pull queues, your application needs to handle scaling of instances based on processing volume, and also needs to delete tasks after processing.
+Provides a REST interface so any web client app can manage your application's task queues and the tasks in them.
+
+The tagging API lets pull queue consumers lease a specified number of tasks with the same tag from a pull queue.
+
+The App Engine Cron Service allows you to configure regularly scheduled tasks that operate at defined times or regular intervals. These tasks are commonly known as cron jobs. These cron jobs are automatically triggered by the App Engine Cron Service. For instance, you might use this to send out a report email on a daily basis, to update some cached data every 10 minutes, or to update some summary information once an hour.
+
+A cron job will invoke a URL, using an HTTP GET request, at a given time of day. An HTTP request invoked by cron can run for up to 10 minutes, but is subject to the same limits as other HTTP requests.
+
+Free applications can have up to 20 scheduled tasks. Paid applications can have up to 100 scheduled tasks.
+
+The Images API provides the ability to describe and manipulate image data. The API provides information about an image, such as its format, width, height, and a histogram of color values. It can resize, rotate, flip, and crop images. It also has the ability to composite multiple images into one image, enhance images automatically, and convert images between several formats
+
+The Images service can accept image data directly from the app, or it can use data retreived from Blobstore or Google Cloud Storage.
+
+App Engine MapReduce is an open source library that is built on top of App Engine services, including Datastore and Task Queues. You must include the library with your application.
+
+The Application Identity service provides the ability for an application to identify itself, by retrieving its App ID or the hostname part of its URL. The app's identity may be used to generate a URL or email address, or to make some run-time decision.
+
+Many Google APIs support OAuth assertions to identify the source of a request. The App Identity API can create tokens that can be used to assert that the source of a request is the application itself. This token can be included in the HTTP headers of a call to identify the calling application. The OAuth token only works against Google systems. However you can use the underlying signing technology in the API to assert the identity of your application to other systems.
+
+The App Engine OAuth API uses the OAuth protocol and provides a way for your app to authenticate a user who is requesting access without asking for user credentials.
+
+You can use the Capabilities API to detect the availability of services like the Images service or specific capabilities of a service such as datastore reads and writes. You can reduce downtime in your application by testing for the availability of a capability before trying to use it. The services that support this API vary depending which runtime you are using.
+
+Modules are used to factor large applications into logical components that can share stateful services and communicate in a secure fashion. An app that handles customer requests might include separate modules to handle other tasks.
+
+Scaling types control the creation of instances. There are three scaling types. Each type offers a variety of instance classes, with different amounts of CPU and Memory.
+
+A module with manual scaling runs continuously, allowing you to perform complex initialization and rely on the state of its memory over time.
+A module with basic scaling will create an instance when the application receives a request. The instance will be turned down when the app becomes idle. Basic scaling is ideal for work that is intermittent or driven by user activity.
+Automatic scaling is the scaling policy that App Engine has used since its inception. It is based on request rate, response latencies, and other application metrics. Previously users could use the Admin Console to configure the automatic scaling parameters for an application's frontend versions only. These settings now apply to every version of every module that has automatic scaling.
+Multitenancy is a software architecture in which one instance of an application, running on a remote server, serves many client organizations, or tenants.
+
+Google App Engine provides the Namespaces API, which includes a namespace manager. The Namespaces API is also incorporated in other namespace-enabled APIs. When you set the namespace in the namespace manager, all the namespace-enabled APIs use that namespace by default. This lets you partition data across tenants by specifying a unique namespace for each tenant. For instance, using namespaces with the Datastore API, all users can share the same data schema, but different users see different content.
+
+The Namespaces API is integrated with Google Apps, allowing you to use your Google Apps domain as the current namespace. Because Google Apps lets you deploy your app to any domain that you own, you can easily set unique namespaces for all domains linked to your Google Apps account.
+
+Lets external applications transparently access App Engine services. For example, you can use Remote API to access a production datastore from an app running on your local machine.
+
+Allows applications to be served via both HTTPS and HTTP via a custom domain instead of an appspot.com address.
+
+Allows you to roll out features for your app slowly over a period of time and do A/B testing. Traffic Splitting works by splitting incoming requests to different versions of your app.
+
+App Engine applications can authenticate users using any one of three methods: Google Accounts, accounts on your own Google Apps domains, or OpenID identifiers. An application can detect whether the current user has signed in, and can redirect the user to the appropriate sign-in page to sign in or, if your app uses Google Accounts authentication, create a new account. While a user is signed in to the application, the app can access the user's email address. The app can also detect whether the current user is an administrator, making it easy to implement admin-only areas of the app.
